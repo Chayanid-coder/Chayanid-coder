@@ -5,6 +5,7 @@ public class Test_Commit {
         //checking the age
         if(age>16){
             System.out.print("Age is greater than 18");
+            System.out.println("I am learning Java.");
         }
     }
 }
