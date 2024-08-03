@@ -3,7 +3,7 @@ public class Test_Commit {
         //defining an 'age' variable
         int age=20;
         //checking the age
-        if(age>18){
+        if(age>19){
             System.out.print("Age is greater than 18");
         }
     }
